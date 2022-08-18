@@ -1,0 +1,23 @@
+{
+  "name": "download-file-url",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "12.2.5",
+    "node-fetch": "^3.2.10",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "stream": "^0.0.2",
+    "util": "^0.12.4"
+  },
+  "devDependencies": {
+    "eslint": "8.22.0",
+    "eslint-config-next": "12.2.5"
+  }
+}
